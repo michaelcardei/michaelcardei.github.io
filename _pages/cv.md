@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/Research_Resume.pdf
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 1
+cv_pdf: Research_Resume.pdf
+# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+# toc:
+#   sidebar: left
 ---
