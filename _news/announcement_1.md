@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-05-28 15:59:00-0400  # This remains the published date or the starting date
+date: 2022-05-28 15:59:00-0400 # This remains the published date or the starting date
 start_date: June 2022
 end_date: August 2022
 inline: true
