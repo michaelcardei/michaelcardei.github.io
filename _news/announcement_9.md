@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper titled [ Neuro-symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation) accepted to NeuS 2025 and selected for Oral Presentation!
+Paper titled Neuro-symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation accepted to NeuS 2025 and selected for Oral Presentation!
