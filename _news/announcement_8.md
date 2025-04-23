@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper titled [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636) accepted to NAACL 2025
+Paper titled [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636) accepted to NAACL 2025 and selected for Oral Presentation!
