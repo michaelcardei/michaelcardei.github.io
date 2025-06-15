@@ -73,3 +73,28 @@
 "Ma":
   - firstname: ["Tiffany"]
     url: https://www.linkedin.com/in/tiffany-ma-2021/
+
+"Christopher":
+  - firstname: ["Jacob"]
+    url: https://scholar.google.com/citations?user=Jz_PoUQAAAAJ&hl=en/
+
+"Liang":
+  - firstname: ["Jinhao"]
+    url: https://scholar.google.com/citations?user=B2ERMqoAAAAJ&hl=en/
+
+"Fioretto":
+  - firstname: ["Ferdinando"]
+    url: https://nandofioretto.github.io/
+
+"Bartoldson":
+  - firstname: ["Brian"]
+    url: https://scholar.google.com/citations?user=YdiZoJgAAAAJ&hl=en/
+
+
+"Ben-Nun":
+  - firstname: ["Tal"]
+    url: https://tbennun.github.io/
+
+"Hartvigsen":
+  - firstname: ["Thomas"]
+    url: https://tbennun.github.io/
