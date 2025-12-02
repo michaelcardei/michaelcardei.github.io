@@ -90,7 +90,6 @@
   - firstname: ["Brian"]
     url: https://scholar.google.com/citations?user=YdiZoJgAAAAJ&hl=en/
 
-
 "Ben-Nun":
   - firstname: ["Tal"]
     url: https://tbennun.github.io/
@@ -98,3 +97,19 @@
 "Hartvigsen":
   - firstname: ["Thomas"]
     url: https://tbennun.github.io/
+
+"Munoz":
+  - firstname: ["Jose"]
+    url: https://github.com/munozariasjm/
+
+"Barrera":
+- firstname: ["Oscar"]
+  url: https://oscarbarreragithub.github.io/
+
+"Chandrahas":
+- firstname: ["Shreyas"]
+  url: https://www.linkedin.com/in/shreyas-kc-4b121b37/
+
+"Saha":
+- firstname: ["Partha"]
+  url: https://www.linkedin.com/in/sahahome/
